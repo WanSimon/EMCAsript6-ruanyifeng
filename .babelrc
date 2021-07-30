@@ -1,0 +1,12 @@
+{
+/*     "presets": [],
+    "plugins": []
+ */
+
+
+    "presets": [
+      "@babel/env",
+      "@babel/preset-react"
+    ],
+    "plugins": []
+}
